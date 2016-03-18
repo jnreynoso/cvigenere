@@ -8,7 +8,7 @@ $ git clone git@github.com:ov3rflow/cvigenere.git
 ```
 ### Pre-requisites
 
-    # Java   (Linux
+    # Java   (Windows or Linux)
     # Csharp (Windows C# Compiler or Mono for Linux enviroments) 
     
 ### Install Mono Ubuntu
