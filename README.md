@@ -8,7 +8,12 @@ $ git clone git@github.com:ov3rflow/cvigenere.git
 ```
 ### Pre-requisites
 
-    # Java 
+    # Java   (Linux
+    # Csharp (Windows C# Compiler or Mono for Linux enviroments) 
+    
+### Install Mono Ubuntu
+
+    # sudo apt-get install mono-xsp2 mono-xsp2-base
    
 ## Usage
 
@@ -17,7 +22,7 @@ $ git clone git@github.com:ov3rflow/cvigenere.git
 $ javac Crypt.java
 $ java Crypt
 ```
-`Csharp` desde entornos linux usando `mono`
+`Csharp` using`mono`
 ```
 $ gmcs Crypt.cs
 $ mono Crypt.exe
