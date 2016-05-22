@@ -4,7 +4,7 @@ cVigenere
 ## Installation
 
 ```
-$ git clone git@github.com:ov3rflow/cvigenere.git
+$ git clone git@github.com:jnreynoso/cvigenere.git
 ```
 ### Pre-requisites
 
